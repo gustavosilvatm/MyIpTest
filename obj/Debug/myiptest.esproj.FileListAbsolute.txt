@@ -1,0 +1,1 @@
+C:\dev\MyIpTest\obj\Debug\myiptest.esproj.CoreCompileInputs.cache
